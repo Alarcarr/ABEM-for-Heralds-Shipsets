@@ -1,0 +1,7 @@
+Model: HiigaranStation
+	Tangents: on
+	Mesh: data/shipsets/hiigaran/station/hiigaran_station.obj
+
+Model: HiigaranTiny
+	Tangents: on
+	Mesh: data/shipsets/hiigaran/station/hiigaran_station.obj

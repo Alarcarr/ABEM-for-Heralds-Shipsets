@@ -1,0 +1,27 @@
+Hull: HiigaranStation
+	
+	Name: HiigaranStation
+	Tags: Station
+	MinSize: 16
+	Subsystem: StationHull
+	Background: HiigaranBlueprint
+	BackgroundScale: 0.9
+	ModelScale: 0.125
+		
+	Material: GenericPBR_Defense_Station
+	Model: HiigaranStation
+	Shape: data/shipsets/hiigaran/station/station.shape.png
+	
+	
+Hull: HiigaranTiny
+	Name: Corvette
+	Background: HiigaranBlueprint
+	BackgroundScale: 0.4
+	ModelScale: 0.4
+	Material: HiigaranGenericPBR
+	Model: HiigaranTiny
+	Shape: data/shipsets/Hiigaran/s-tiny/support_tiny.shape.png
+	
+	Tags: Support
+	MinSize: 1
+	Subsystem: SupportHull

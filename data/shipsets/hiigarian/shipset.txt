@@ -1,0 +1,35 @@
+Shipset: Hiigaran
+	Name: Hiigaran
+
+	//Hull: HiigaranFlagHuge
+//	Hull: HiigaranFlagVeryLarge
+//	Hull: HiigaranFlagLarge
+//	Hull: HiigaranFlagMedium
+//	Hull: HiigaranFlagTiny
+//	Hull: HiigaranHuge
+//	Hull: HiigaranLarge
+//	Hull: HiigaranMedium
+//	Hull: HiigaranSmall
+//	Hull: HiigaranTiny
+	Hull: HiigaranStation
+//	Hull: HiigaranSatellite
+
+//	Skin: Miner
+//		Model: GevronMiner
+//		Material: GevronGenericPBR
+
+//	Skin: Missionary
+//		Model: GevronMissionary
+//		Material: GevronGenericPBRAdvanced
+
+//	Skin: Freighter
+//		Model: GevronFreighter
+//		Material: GevronGenericPBR
+
+//	Skin: Colonizer
+//		Model: GevronColony
+//		Material: GevronGenericPBR
+
+//	Skin: Tractor
+//		Model: GevronTractor
+//		Material: GevronGenericPBR
