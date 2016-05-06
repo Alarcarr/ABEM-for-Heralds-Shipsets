@@ -1,18 +1,41 @@
 
+Hull: HiigaranSpinal 
+
+	Name: HiigaranSpinal
+	Tags: Flagship
+	MinSize: 300
+	Subsystem: FlagshipHull	
+	
+	Background: HiigaranBlueprint
+	BackgroundScale: 0.9
+	ModelScale: 1
+		
+	Material: HiigaranSpinal
+	Model: HiigaranSpinal
+	Shape: data/shipsets/hiigaran/station/station.shape.png
 
 
-//------------------------
-//Hull: GevronFlagLarge
-//	Hull: GevronFlagSmall
-//	Hull: GevronFlagMedium
-//	Hull: GevronFlagVeryLarge
-//	Hull: GevronFlagHuge
-//	Hull: GevronSeedShip
-//------------------------
+Hull: HiigaranFlagVeryLarge //Default BattllShip Desings 
+
+	Name: Hiigaran Flag Very Large
+	Tags: Flagship
+	MinSize: 300
+	
+	Background: HiigaranBlueprint
+	BackgroundScale: 1.25
+	ModelScale: 1
+		
+	Material: HiigaranFlagVeryLarge
+	Model: HiigaranMedium
+	Shape: data/shipsets/hiigaran/station/station.shape.png
+	Subsystem: FlagshipHull
+		
+
 Hull: HiigaranStation
 	Name: HiigaranStation
 	Tags: Station
 	MinSize: 16
+	
 	Subsystem: StationHull
 	Background: HiigaranBlueprint
 	BackgroundScale: 0.9
@@ -22,10 +45,7 @@ Hull: HiigaranStation
 	Model: HiigaranStation
 	Shape: data/shipsets/hiigaran/station/station.shape.png
 
-//Hull: GevronSatellite
 
-//	Hull: GevronSmall
-//	Hull: GevronMedium
 
 Hull: HiigaranTiny
 	Name: Corvette

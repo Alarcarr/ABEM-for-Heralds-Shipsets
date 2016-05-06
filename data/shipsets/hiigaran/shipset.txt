@@ -1,9 +1,8 @@
 Shipset: Hiigaran
 	Name: Hiigaran
 
-	//Hull: GevronFlagHuge
-//	Hull: GevronFlagVeryLarge
-//	Hull: GevronFlagLarge
+//	Hull: GevronFlagHuge
+//	Hull: GevronFlagLarge 
 //	Hull: GevronFlagMedium
 //	Hull: GevronFlagTiny
 //	Hull: GevronHuge
@@ -11,8 +10,11 @@ Shipset: Hiigaran
 //	Hull: GevronMedium
 //	Hull: GevronSmall
 //	Hull: GevronTiny
+//	Hull: GevronSatellite	
+	
+	Hull: HiigaranFlagVeryLarge //Default BattlleShip Desings 
 	Hull: HiigaranStation
-//	Hull: GevronSatellite
+	Hull: HiigaranSpinal
 
 //	Skin: Miner
 //		Model: GevronMiner

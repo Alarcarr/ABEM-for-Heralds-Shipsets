@@ -1,9 +1,14 @@
 Material: hiigaran_station
-	Shader: NormalLighting
+	Shader: Lighting
 	Blend: Alpha
 	Texture: data/shipsets/hiigaran/station/Spacestation.png
-	//Texture2: data/shipsets/volkur/normal.png
-	//Texture3: data/shipsets/volkur/masks.png
-	//Texture4: data/shipsets/volkur/damaged.png
-	//Texture5: data/shipsets/gevron/gevron_emissives.png
-	//Cubemap6: data/images/skycube.png
+		
+Material: hiigaranFlagVeryLarge
+	Shader: Lighting
+	Blend: Alpha
+	Texture: data/shipsets/hiigaran/flagshiplarge/hiigaran_medium.png
+	
+Material: hiigaranSpinal
+	Shader: Lighting
+	Blend: Alpha
+	Texture: data/shipsets/hiigaran/spinalmount/hiigaran_spinalmount.png

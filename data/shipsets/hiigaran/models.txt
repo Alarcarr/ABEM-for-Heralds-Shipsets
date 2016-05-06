@@ -2,6 +2,14 @@ Model: HiigaranStation
 	Tangents: on
 	Mesh: data/shipsets/hiigaran/station/hiigaran_station.obj
 
+Model: HiigaranMedium
+	Tangents: on
+	Mesh: data/shipsets/hiigaran/flagshiplarge/hiigaran_medium.obj
+
+Model: HiigaranSpinal
+	Tangents: on
+	Mesh: data/shipsets/hiigaran/spinalmount/hiigaran_spinalmount.obj
+	
 Model: HiigaranTiny
 	Tangents: on
 	Mesh: data/shipsets/hiigaran/suptiny/hiigaran_tiny.obj
