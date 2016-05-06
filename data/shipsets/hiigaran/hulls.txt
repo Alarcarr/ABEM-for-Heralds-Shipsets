@@ -5,12 +5,13 @@ Hull: HiigaranSpinal
 	Tags: Flagship
 	MinSize: 300
 	Subsystem: FlagshipHull	
+
 	
 	Background: HiigaranBlueprint
 	BackgroundScale: 0.9
-	ModelScale: 1
+	ModelScale: 0.150
 		
-	Material: HiigaranSpinal
+	Material: hiigaranSpinal
 	Model: HiigaranSpinal
 	Shape: data/shipsets/hiigaran/station/station.shape.png
 
@@ -22,8 +23,8 @@ Hull: HiigaranFlagVeryLarge //Default BattllShip Desings
 	MinSize: 300
 	
 	Background: HiigaranBlueprint
-	BackgroundScale: 1.25
-	ModelScale: 1
+	BackgroundScale: 1
+	ModelScale: 0.150
 		
 	Material: HiigaranFlagVeryLarge
 	Model: HiigaranMedium

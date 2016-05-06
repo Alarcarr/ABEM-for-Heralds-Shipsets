@@ -2,7 +2,7 @@ Model: HiigaranStation
 	Tangents: on
 	Mesh: data/shipsets/hiigaran/station/hiigaran_station.obj
 
-Model: HiigaranMedium
+Model: hiigaranMedium
 	Tangents: on
 	Mesh: data/shipsets/hiigaran/flagshiplarge/hiigaran_medium.obj
 
