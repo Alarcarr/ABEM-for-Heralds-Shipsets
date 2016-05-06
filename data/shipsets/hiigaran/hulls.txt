@@ -16,7 +16,7 @@ Hull: HiigaranStation
 	Subsystem: StationHull
 	Background: HiigaranBlueprint
 	BackgroundScale: 0.9
-	ModelScale: 0.125
+	ModelScale: 1
 		
 	Material: hiigaran_station
 	Model: HiigaranStation
