@@ -38,5 +38,5 @@ Hull: HiigaranTiny
 	ModelScale: 0.4
 	Material: HiigaranGenericPBR
 	Model: HiigaranTiny
-	Shape: data/shipsets/Hiigaran/s-tiny/support_tiny.shape.png
+	Shape: data/shipsets/hiigaran/suptiny/support_tiny.shape.png
 	
