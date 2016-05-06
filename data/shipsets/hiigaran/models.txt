@@ -4,4 +4,4 @@ Model: HiigaranStation
 
 Model: HiigaranTiny
 	Tangents: on
-	Mesh: data/shipsets/hiigaran/station/hiigaran_station.obj
+	Mesh: data/shipsets/hiigaran/suptiny/hiigaran_tiny.obj

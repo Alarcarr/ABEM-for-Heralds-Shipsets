@@ -1,8 +1,8 @@
 Material: hiigaran_station
 	Shader: NormalLighting
-	Blend: Alpha
+	//Blend: Alpha
 	Texture: data/shipsets/hiigaran/diffuse.png
-	//Texture2: data/shipsets/volkur/normal.png
+	Texture2: data/shipsets/volkur/normal.png
 	//Texture3: data/shipsets/volkur/masks.png
 	//Texture4: data/shipsets/volkur/damaged.png
 	//Texture5: data/shipsets/gevron/gevron_emissives.png
