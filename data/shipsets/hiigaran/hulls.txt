@@ -22,7 +22,7 @@ Hull: HiigaranStation
 	Model: HiigaranStation
 	Shape: data/shipsets/hiigaran/station/station.shape.png
 
-Hull: GevronSatellite
+//Hull: GevronSatellite
 
 //	Hull: GevronSmall
 //	Hull: GevronMedium
