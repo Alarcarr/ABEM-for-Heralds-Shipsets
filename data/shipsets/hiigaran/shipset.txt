@@ -1,18 +1,18 @@
 Shipset: Hiigaran
 	Name: Hiigaran
 
-	//Hull: HiigaranFlagHuge
-//	Hull: HiigaranFlagVeryLarge
-//	Hull: HiigaranFlagLarge
-//	Hull: HiigaranFlagMedium
-//	Hull: HiigaranFlagTiny
-//	Hull: HiigaranHuge
-//	Hull: HiigaranLarge
-//	Hull: HiigaranMedium
-//	Hull: HiigaranSmall
-//	Hull: HiigaranTiny
+	//Hull: GevronFlagHuge
+//	Hull: GevronFlagVeryLarge
+//	Hull: GevronFlagLarge
+//	Hull: GevronFlagMedium
+//	Hull: GevronFlagTiny
+//	Hull: GevronHuge
+//	Hull: GevronLarge
+//	Hull: GevronMedium
+//	Hull: GevronSmall
+//	Hull: GevronTiny
 	Hull: HiigaranStation
-//	Hull: HiigaranSatellite
+//	Hull: GevronSatellite
 
 //	Skin: Miner
 //		Model: GevronMiner

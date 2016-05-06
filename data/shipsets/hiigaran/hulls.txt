@@ -1,5 +1,15 @@
+
+
+
+//------------------------
+//Hull: GevronFlagLarge
+//	Hull: GevronFlagSmall
+//	Hull: GevronFlagMedium
+//	Hull: GevronFlagVeryLarge
+//	Hull: GevronFlagHuge
+//	Hull: GevronSeedShip
+//------------------------
 Hull: HiigaranStation
-	
 	Name: HiigaranStation
 	Tags: Station
 	MinSize: 16
@@ -8,13 +18,21 @@ Hull: HiigaranStation
 	BackgroundScale: 0.9
 	ModelScale: 0.125
 		
-	Material: GenericPBR_Defense_Station
+	Material: hiigaran_station
 	Model: HiigaranStation
 	Shape: data/shipsets/hiigaran/station/station.shape.png
-	
-	
+
+Hull: GevronSatellite
+
+//	Hull: GevronSmall
+//	Hull: GevronMedium
+
 Hull: HiigaranTiny
 	Name: Corvette
+	Tags: Support
+	MinSize: 1
+	Subsystem: SupportHull
+	
 	Background: HiigaranBlueprint
 	BackgroundScale: 0.4
 	ModelScale: 0.4
@@ -22,6 +40,3 @@ Hull: HiigaranTiny
 	Model: HiigaranTiny
 	Shape: data/shipsets/Hiigaran/s-tiny/support_tiny.shape.png
 	
-	Tags: Support
-	MinSize: 1
-	Subsystem: SupportHull
